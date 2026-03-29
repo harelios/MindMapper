@@ -5,18 +5,18 @@ MindMapper is a Python application that transforms raw text into a structured mi
 
 **Semantic Extraction**  
   Parses input text to identify subjects and relationships using predefined connectors  
-  (e.g., "is", "used in", "such as", "pour", "dans", etc.) :contentReference[oaicite:0]{index=0}
+  (e.g., "is", "used in", "such as", "pour", "dans", etc.)
 
 **Graph Construction**  
   Builds a directed graph structure where:
   - Nodes represent concepts
-  - Edges represent relationships between them :contentReference[oaicite:1]{index=1}
+  - Edges represent relationships between them
 
 **Visualization**  
-  Uses NetworkX and Matplotlib to render a dynamic mind map with labeled connections :contentReference[oaicite:2]{index=2}
+  Uses NetworkX and Matplotlib to render a dynamic mind map with labeled connections
 
 **Graphical Interface**  
-  Simple Tkinter-based UI allowing users to input text and generate mind maps instantly :contentReference[oaicite:3]{index=3}
+  Simple Tkinter-based UI allowing users to input text and generate mind maps instantly
   
 **Technologies Used**
 - Python
